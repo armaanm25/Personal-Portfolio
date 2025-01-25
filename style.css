@@ -1,0 +1,34 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --gap_size: 1.5rem;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.grid-container {
+  
+}
+
+header {
+
+}
+
+main {
+  
+}
+
+.bottom-content {
+  
+}
+
+footer {
+  
+}
